@@ -1,5 +1,8 @@
 # sdk-oauth
 
+# Wrote new app ID: ad94fbe0-d4e5-4b3c-8e4d-858f81a978c6
+# App UUID: ad94fbe0-d4e5-4b3c-8e4d-858f81a978c6, BuildID: 0x0105cae96b835be1
+
 A sample application which uses the Settings API [OAuth
 component](https://dev.fitbit.com/reference/settings-api/#oauth-button), and the
 [Fitbit Web API](https://dev.fitbit.com/reference/web-api/quickstart/) to query
